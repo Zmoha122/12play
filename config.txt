@@ -1,0 +1,6 @@
+owner=579808920873467904
+prefix=12
+game=Type 12help
+stayinchannel=true
+songinstatus=false
+token=NTgyNzU3OTcxODgxMDk5MjY1.XOyk3A.LS_FFUjOnj7nnqwWGxnrHkWX_rU
